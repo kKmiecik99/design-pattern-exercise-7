@@ -1,0 +1,2 @@
+Date: 2020-03-01T12:24:52.815778400 From: Employee{fullName='Janusz Kowalski'} To: Employee{fullName='Piotr Kozik'} Title: titleOne Content: contentOne
+Date: 2020-03-01T12:24:52.818779700 From: Employee{fullName='Janusz Kowalski'} To: Employee{fullName='Adam Nowacki'} Title: titleOne Content: contentOne
